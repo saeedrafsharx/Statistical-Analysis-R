@@ -1,4 +1,4 @@
-# STATISTICAL-ANALYSIS-Using-R
+# STATISTICAL ANALYSIS Using R
 
 A collection of statistical analysis projects implemented in **R** (via Jupyter notebooks). This repository contains all data, code, and visual assets used across five individual projects, plus a set of “useful code” snippets for common statistical tasks.
 
@@ -96,8 +96,6 @@ Below is a brief description of each project’s goals and techniques:
 | **Project\_3** | Time Series Forecasting of **Series C**        | ARIMA modeling, decomposition, forecast plots   |
 | **Project\_4** | Classification Analysis on **Dataset D**       | Logistic regression, decision trees, ROC curves |
 | **Project\_5** | Clustering & Dimensionality Reduction on **E** | K-means, hierarchical clustering, PCA           |
-
-*(Replace **Dataset A–E** with actual dataset names if desired.)*
 
 ---
 
