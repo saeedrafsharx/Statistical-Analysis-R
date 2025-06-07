@@ -39,9 +39,9 @@ STATISTICAL-ANALYSIS-R/
 - **R** (version ≥ 4.0)  
 - **Jupyter Notebook** or **JupyterLab**  
 - **IRkernel** installed & registered with Jupyter:  
-  ```bash
+```bash
   R -e "install.packages('IRkernel'); IRkernel::installspec()"
-````
+```
 
 * R packages commonly used across projects (install all at once):
 
@@ -129,7 +129,7 @@ source("../Useful-Codes/stats_helpers.R")
 This work is licensed under the [MIT License](LICENSE).
 If you use or build upon these analyses, please cite:
 
-> *Your Name*, *Statistical Analysis in R*, GitHub Repository, Year.
+> Saeed, Rezaei Afshar, *Statistical Analysis in R*, GitHub Repository, 2024.
 
 ---
 
