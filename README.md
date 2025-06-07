@@ -1,4 +1,4 @@
-# STATISTICAL-ANALYSIS-R
+# STATISTICAL-ANALYSIS-Using-R
 
 A collection of statistical analysis projects implemented in **R** (via Jupyter notebooks). This repository contains all data, code, and visual assets used across five individual projects, plus a set of “useful code” snippets for common statistical tasks.
 
